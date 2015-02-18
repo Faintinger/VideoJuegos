@@ -1,5 +1,3 @@
-//Tu mama
-
 /**
  * Juego Examen
  *
